@@ -59,7 +59,7 @@ def loading(text):
     a=rd.randrange(2,6)
     for i in range(a):
         print(".",end="")
-        sleep(0.1)
+        sleep(0.8)
     print()
     
     
